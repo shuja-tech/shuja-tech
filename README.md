@@ -4,7 +4,8 @@
 
 I'm a full-stack developer passionate about building interactive, user-friendly web applications with modern technologies. I love creating engaging digital experiences and contributing to open-source projects.
 
-[![GitHub followers](https://img.shields.io/github/followers/shuja-tech?style=social)](https://github.com/shuja-tech)
+[![GitHub followers](https://img.shields.io/github/followers/shuja-tech?style=social&label=Follow)](https://github.com/shuja-tech?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shuja-0A66C2?style=social&logo=linkedin)](http://www.linkedin.com/in/muhammad-shuja-257630329)
 [![GitHub stars](https://img.shields.io/github/stars/shuja-tech?style=social)](https://github.com/shuja-tech)
 
 </div>
@@ -134,14 +135,16 @@ Contributing to an open-source Japanese language learning platform
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuja-tech)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### Social & Professional Links
 
-**Feel free to explore my repositories and reach out for collaborations!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shuja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammad-shuja-257630329)
+[![GitHub](https://img.shields.io/badge/GitHub-shuja--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuja-tech)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+**Feel free to explore my repositories and reach out for collaborations!**
+
+⭐ **If you like my work, consider giving a star to my repositories!**
 
 </div>
