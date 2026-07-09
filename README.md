@@ -41,6 +41,13 @@ A modern web-based gaming platform built with **Flask + Supabase**
 
 ---
 
+### ✨ [Hexly Studio](https://github.com/shuja-tech/hexly-studio)
+A featured repository for the Hexly Studio project.
+
+🔗 [Repository](https://github.com/shuja-tech/hexly-studio)
+
+---
+
 ### 📚 [LibrarySpring Refactor](https://github.com/shuja-tech/LibrarySpring-refactor)
 A refactored Java + Spring library management system
 
