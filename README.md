@@ -50,7 +50,7 @@ A full-featured clinic management platform built during a hackathon
 
 ---
 
-### 🌿 [SolPlant Portfolio](https://github.com/shuja-tech/portfolio-smit)
+### 🌿 [SolPlant](https://github.com/shuja-tech/SolPlant-smit)
 A responsive front-end web project showcasing UI/UX design
 
 - 🎨 **Modern HTML/CSS** design patterns
