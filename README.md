@@ -57,6 +57,7 @@ A responsive front-end web project showcasing UI/UX design
 - 📱 **Responsive layout** for all screen sizes
 - ✨ Clean and professional styling
 
+🔗 [Live Demo](https://shuja-tech.github.io/SolPlant-smit/)
 ---
 
 ### 🎯 [Playportal2](https://github.com/shuja-tech/Playportal2)
