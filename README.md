@@ -82,20 +82,6 @@ A Python-based mini-game project
 
 ---
 
-## 🤝 Open-Source Contributions
-
-### [KanaDojo](https://github.com/lingdojo/kana-dojo)
-Contributing to an open-source Japanese language learning platform
-
-- **Tech Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS
-- **Features:** Hiragana, Katakana, Kanji, and Vocabulary training dojos
-- **Highlights:** 100+ themes, 4 game modes, progress tracking, 80+ achievements
-- **Role:** Community contributor helping improve the learning experience
-
-🔗 [Repository](https://github.com/lingdojo/kana-dojo) | [Live App](https://kanadojo.com)
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
