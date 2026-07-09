@@ -41,6 +41,21 @@ A modern web-based gaming platform built with **Flask + Supabase**
 
 ---
 
+### 🚀 [Hexly Studio](https://github.com/shuja-tech/hexly-studio)
+A modern **startup website** crafted to present a digital brand with clarity, style, and conversion-focused design.
+
+- 🌐 **Professional startup web presence** with modern visual identity
+- 🎯 **Service-focused sections** for clear value proposition
+- 📱 **Fully responsive design** optimized for desktop, tablet, and mobile
+- ⚡ **Fast, interactive UI** powered by JavaScript
+- 🎨 **Clean and engaging layouts** using HTML + CSS best practices
+- 📬 **Call-to-action flow** designed to improve user engagement and lead generation
+
+🔗 [Repository](https://github.com/shuja-tech/hexly-studio) | [Live Demo](https://hexly-studio.vercel.app/)
+
+---
+
+
 ### 📚 [LibrarySpring Refactor](https://github.com/shuja-tech/LibrarySpring-refactor)
 A refactored Java + Spring library management system
 
