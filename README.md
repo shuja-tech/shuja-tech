@@ -5,7 +5,7 @@
 I'm a full-stack developer passionate about building interactive, user-friendly web applications with modern technologies. I love creating engaging digital experiences and contributing to open-source projects.
 
 [![GitHub followers](https://img.shields.io/github/followers/shuja-tech?style=social&label=Follow)](https://github.com/shuja-tech?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shuja-0A66C2?style=social&logo=linkedin)](http://www.linkedin.com/in/muhammad-shuja-257630329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shuja-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-shuja-1se/)
 [![GitHub stars](https://img.shields.io/github/stars/shuja-tech?style=social)](https://github.com/shuja-tech)
 
 </div>
@@ -152,7 +152,7 @@ A Python-based mini-game project
 
 ### Social & Professional Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shuja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammad-shuja-257630329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shuja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shuja-1se/)
 [![GitHub](https://img.shields.io/badge/GitHub-shuja--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuja-tech)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
