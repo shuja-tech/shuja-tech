@@ -5,7 +5,7 @@
 I'm a full-stack developer passionate about building interactive, user-friendly web applications with modern technologies. I love creating engaging digital experiences and contributing to open-source projects.
 
 [![GitHub followers](https://img.shields.io/github/followers/shuja-tech?style=social&label=Follow)](https://github.com/shuja-tech?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shuja-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-shuja-1se/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shuja-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammadshuja-1se/)
 [![GitHub stars](https://img.shields.io/github/stars/shuja-tech?style=social)](https://github.com/shuja-tech)
 
 </div>
