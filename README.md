@@ -37,7 +37,7 @@ A comprehensive maintenance management system built with **MERN Stack + PostgreS
 - 📱 **Responsive web interface** for desktop and mobile devices
 - 🎯 **Scalable architecture** using modern web technologies
 
-🔗 [Repository](https://github.com/shuja-tech/MaintainIQ)
+🔗 [Live Demo](https://maintain-iq-chi.vercel.app/) | [Repository](https://github.com/shuja-tech/MaintainIQ.git)
 
 ---
 
@@ -66,19 +66,6 @@ A modern **startup website** crafted to present a digital brand with clarity, st
 - 📬 **Call-to-action flow** designed to improve user engagement and lead generation
 
 🔗 [Repository](https://github.com/shuja-tech/hexly-studio) | [Live Demo](https://hexly-studio.vercel.app/)
-
----
-
-
-### 📚 [LibrarySpring Refactor](https://github.com/shuja-tech/LibrarySpring-refactor)
-A refactored Java + Spring library management system
-
-- 🏗️ **Improved architecture** with clean code principles
-- 📦 **Organized modules** for better maintainability
-- 📖 **Enhanced readability** and documentation
-- ⚙️ Built with **Spring Framework** best practices
-
-🔗 [Repository](https://github.com/shuja-tech/LibrarySpring-refactor)
 
 ---
 
@@ -114,7 +101,6 @@ A refactored Java + Spring library management system
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-2A2A2A?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -134,7 +120,7 @@ A refactored Java + Spring library management system
 
 ## 💡 What I'm Interested In
 
-- 🌐 Full-stack web development
+- 🌐 Full-stack web & saas development
 - 🎮 Building interactive web applications
 - 🔗 Open-source contributions
 - 📱 Responsive and user-friendly UI/UX design
