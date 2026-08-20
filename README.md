@@ -27,6 +27,20 @@ Contributing to an open-source Japanese language learning platform
 
 ## 🚀 Featured Projects
 
+### 💼 [MaintainIQ](https://github.com/shuja-tech/MaintainIQ)
+A comprehensive maintenance management system built with **MERN Stack + PostgreSQL**
+
+- 📊 **Intelligent asset tracking** with real-time monitoring
+- 🔧 **Preventive maintenance scheduling** and work order management
+- 📈 **Advanced analytics & reporting** for maintenance insights
+- 👥 **Multi-user role-based access control** system
+- 📱 **Responsive web interface** for desktop and mobile devices
+- 🎯 **Scalable architecture** using modern web technologies
+
+🔗 [Repository](https://github.com/shuja-tech/MaintainIQ)
+
+---
+
 ### 🎮 [Play Portal 2](https://github.com/shuja-tech/Play-Portal-2-dep)
 A modern web-based gaming platform built with **Flask + Supabase**
 
@@ -73,23 +87,35 @@ A refactored Java + Spring library management system
 
 <div align="center">
 
-### Languages
+### Languages & Core Concepts
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-2A2A2A?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-2A2A2A?style=for-the-badge&logoColor=white)
 
-### Frontend
+### Frontend & Styling
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend & Tools
+### Backend & Databases
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL/MySQL](https://img.shields.io/badge/SQL%2FMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-2A2A2A?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-2A2A2A?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -99,7 +125,7 @@ A refactored Java + Spring library management system
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuja-tech&show_icons=true&theme=radical)](https://github.com/shuja-tech)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuja-tech&show_icons=true&theme=radical&count_private=true)](https://github.com/shuja-tech)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuja-tech&layout=compact&theme=radical)](https://github.com/shuja-tech)
 
