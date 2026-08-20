@@ -68,34 +68,6 @@ A refactored Java + Spring library management system
 
 ---
 
-### 🏥 [Clinic Management System](https://github.com/shuja-tech/clinic-mangsys-minihackathon)
-A full-featured clinic management platform built during a hackathon
-
-- ⚛️ Built with **React + Vite** for optimal performance
-- 🗄️ **Supabase backend** for real-time data management
-- 📋 **Patient management**, appointment scheduling
-- 🔧 **Admin dashboard** with analytics
-
----
-
-### 🌿 [SolPlant](https://github.com/shuja-tech/SolPlant-smit)
-A responsive front-end web project showcasing UI/UX design
-
-- 🎨 **Modern HTML/CSS** design patterns
-- 📱 **Responsive layout** for all screen sizes
-- ✨ Clean and professional styling
-
-🔗 [Live Demo](https://shuja-tech.github.io/SolPlant-smit/)
----
-
-### 🎯 [Playportal2](https://github.com/shuja-tech/Playportal2)
-A Python-based mini-game project
-
-- 🐍 Built with **Python** game logic
-- 🎮 Interactive game mechanics
-- 🎨 Integrated game assets
-
----
 
 ## 🛠️ Tech Stack
 
