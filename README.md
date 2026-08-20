@@ -110,9 +110,9 @@ A modern **startup website** crafted to present a digital brand with clarity, st
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuja-tech&show_icons=true&theme=radical&count_private=true)](https://github.com/shuja-tech)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuja-tech&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuja-tech&layout=compact&theme=radical)](https://github.com/shuja-tech)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuja-tech&layout=compact&theme=radical&cache_seconds=1800)
 
 </div>
 
