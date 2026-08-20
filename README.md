@@ -94,7 +94,6 @@ A modern **startup website** crafted to present a digital brand with clarity, st
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL/MySQL](https://img.shields.io/badge/SQL%2FMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-2A2A2A?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
