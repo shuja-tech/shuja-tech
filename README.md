@@ -93,8 +93,7 @@ A refactored Java + Spring library management system
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-2A2A2A?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-2A2A2A?style=for-the-badge&logoColor=white)
+
 
 ### Frontend & Styling
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
